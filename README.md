@@ -1,4 +1,6 @@
 ## Hi there 👋
+
+
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXpheHh3cWM2dm53eHpha3ZxN29kdWhwMWFna21sMnY0cTkweGJhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SxLe9d2V0RwGMbeyIT/giphy.gif" width="500"/>
 </div>
@@ -39,3 +41,4 @@ Aspiring computer science student with robust experience in general-purpose prog
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
+
